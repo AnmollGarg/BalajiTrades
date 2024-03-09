@@ -80,3 +80,26 @@
     font-size: 16px;
     font-weight: 500;
 }
+
+.cartitems-promocode p {
+    color: #555;
+}
+
+.cartitem-promobox {
+    width: 504px;
+    margin-top: 15px;
+    padding-left: 20px;
+    height: 58px;
+    background-color: #eaeaea;
+
+}
+
+.cartitem-promobox input {
+    width: 330px;
+    height: 58px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+
+    background-color: transparent;
+}
