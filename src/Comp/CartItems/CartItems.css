@@ -102,3 +102,15 @@
     font-size: 16px;
     background-color: transparent;
 }
+
+.cartitem-promobox button {
+    width: 150px;
+    height: 58px;
+    border: none;
+    outline: none;
+    background-color: #000000;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+}
