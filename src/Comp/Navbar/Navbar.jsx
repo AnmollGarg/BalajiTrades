@@ -5,7 +5,7 @@ import cart_icon from '../Assets/cart_icon.png';
 import { Link } from 'react-router-dom';
 import { ShopContext } from '../../Context/ShopContext';
 
-import dropdown from '../Assets/dropdown_icon.png';
+import dropdown from '../Assets/dropdown.svg';
 
 const Navbar = () => {
   const [menu, setMenu] = useState("shop");
